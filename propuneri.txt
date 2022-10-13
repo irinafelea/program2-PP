@@ -1,0 +1,5 @@
+maria.popa: 15 perechi de pantaloni
+maria.popa: 2 perechi de ochelari
+alin.popescu: 3 tricouri
+maria.popa: 2
+maria.popa: 2 bluze
