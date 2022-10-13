@@ -1,0 +1,15 @@
+alin.popescu
+22.6.2022
+1234 tricou 1 45.56; 1235 sosete 1 5.5;
+maria.popa
+22.6.2022
+1237 blugi 1 45.67;
+maria.popa
+22.6.2022
+1234 tricou 1 45.56;1237 blugi 1 45.67;
+alin.popescu
+23.6.2022
+1234 tricou 10 1 5.56;
+maria.popa
+23.6.2022
+1235 sosete 2 11;
